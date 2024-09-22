@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "6b9d",
+      "tarefa": "Dormir",
+      "categoria": "lazer",
+      "concluido": false
+    },
+    {
+      "id": "8842",
+      "tarefa": "Estudar Angular",
+      "categoria": "Restic",
+      "concluido": false
+    }
+  ]
+}
